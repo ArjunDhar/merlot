@@ -1,16 +1,6 @@
 
 ![my profile image](./assets/images/arjun-dhar-4b34848f.jpg)
 
-      <header>
-        <span class="ribbon-outer">
-          <span class="ribbon-inner">
-            <h1>SHERSHAH !!!/h1>
-          </span>
-          <span class="left-tail"></span>
-          <span class="right-tail"></span>
-        </span>
-      </header>
-
 ---
 layout: default
 ---
