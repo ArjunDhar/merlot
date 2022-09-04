@@ -1,3 +1,6 @@
+
+![my profile image](./assets/images/arjun-dhar-4b34848f.jpg)
+
 ---
 layout: default
 ---
